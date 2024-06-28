@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mehulk43
 - 👀 I’m interested in Computer Vision, machine learning, security and cryptography.
 - 🌱 I’m currently pursuing PhD in SoE, JNU
-- 💞️ I’m looking to collaborate on Image Retrieval.
+- 💞️ I’m looking to collaborate on Image Retrieval, detection and segmentation.
 - 📫 How to reach me : mehulk43_soe@jnu.ac.in, mehuljhon2011@gmail.com
 
 <!---
